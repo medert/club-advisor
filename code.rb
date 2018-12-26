@@ -55,4 +55,4 @@ else
   club = clubs[0]
 end
 
-puts club.to_s.gsub("_"," ")
+puts "Use the #{club.to_s.gsub("_"," ")}"
